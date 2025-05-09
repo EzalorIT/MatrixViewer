@@ -1,10 +1,11 @@
 import pandas as pd
 import streamlit as st
+from st_aggrid import AgGrid, GridOptionsBuilder
 import json
 import os
 
 st.set_page_config(layout="wide")
-st.title("🧠 Goofball Labs Matrix Transformer")
+st.title("🧠 Goofball Labs App Usage Matrix Transposer")
 
 FILTER_DIR = "saved_filters"
 PAGE_SIZE = 10
@@ -53,6 +54,7 @@ if "clauses" not in st.session_state:
 st.sidebar.header("📂 Filter Management")
 saved_files = [f for f in os.listdir(FILTER_DIR) if f.endswith(".json")]
 
+# Auto-load Default Filter
 if "clauses_loaded" not in st.session_state and DEFAULT_FILTER_FILE in saved_files:
     try:
         with open(os.path.join(FILTER_DIR, DEFAULT_FILTER_FILE), "r") as f:
@@ -184,9 +186,21 @@ col_start = st.session_state.col_page * PAGE_SIZE
 col_end = col_start + PAGE_SIZE
 visible_columns = list(matrix.columns[col_start:col_end])
 df_view = matrix[visible_columns].copy()
-df_view = df_view.reset_index()  # Ensures Username is first and not duplicated
+df_view.insert(0, "Username", matrix.index)
 
+# ✅ Enhanced display with total apps
 st.markdown(f"**Page {st.session_state.col_page + 1}/{col_total_pages}**")
 st.markdown(f"**Showing {len(df_view):,} users and {len(visible_columns)} apps of Total Apps {len(matrix.columns):,}**")
 
-st.dataframe(df_view, use_container_width=True, height=700)
+# 📊 AgGrid
+gb = GridOptionsBuilder.from_dataframe(df_view)
+gb.configure_default_column(filter=True, resizable=True, sortable=True)
+gb.configure_column("Username", pinned="left")
+
+AgGrid(
+    df_view,
+    gridOptions=gb.build(),
+    height=700,
+    fit_columns_on_grid_load=False,
+    enable_enterprise_modules=True
+)
