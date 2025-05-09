@@ -1,0 +1,60 @@
+{
+  "clauses": [
+    {
+      "logic": "AND",
+      "fields": [
+        {
+          "field": "IsNoise",
+          "type": "Multiselect",
+          "values": [
+            "False"
+          ]
+        },
+        {
+          "field": "Category",
+          "type": "Multiselect",
+          "values": [
+            "Azure Services",
+            "Browsers",
+            "Cloud Storage",
+            "Cloud Tools",
+            "Collaboration",
+            "Communication",
+            "Compression Tools",
+            "Data Analysis",
+            "Database",
+            "Developer Tools",
+            "Design Tools",
+            "Document Processing",
+            "Documentation",
+            "Email Client",
+            "File Transfer",
+            "File Managers",
+            "Financial Software",
+            "Gameing", 
+            "Geographical Information Systems",
+            "GIS Software",
+            "Graphics Editors",
+            "Healthcare",
+            "Health Software",
+            "Media",
+            "OCR Tools",
+            "Printer SOftware",
+            "Productivity",
+            "Reporting",
+            "Remote Access",
+            "Security",
+            "Software Management",
+            "Viewers",
+            "VPN",
+            "Web Applications",
+            "Web Servers",
+            "Web Server"
+
+          ]
+        }
+      ]
+    }
+  ],
+  "outer_logic": "AND"
+}

@@ -1,0 +1,334 @@
+Name,LatestVersion,Hostname,Username,CaughtInProcess,FileSource,PackagedAppMatch,PackagedAppMatchScore,PackagedAppCompatible,WingetMatchName,WingetMatchScore,WingetCompatible,DenoisedName,DenoisedScore,IsNoise,Category
+microsoft photos,2019.19071.12540.00000,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.photos,0.9518,True,Windows Default Applications
+msedge,135.0.3179.73,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,msedge,1.0,True,Browsers
+textinputhost,124.26100.0.0,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,textinputhost,1.0,True,System Processes
+onedrive,25.065.0406.0002,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,microsoft onedrive              microsoft.onedrive                 25.031.0217.0â€¦ winget,0.7966,True,onedrive,1.0,True,Cloud Storage
+filecoauth,25.056.0324.0003,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Add-Ons
+onedrivestandaloneupdater,25.051.0317.0003,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,microsoft onedrive              microsoft.onedrive                 25.031.0217.0â€¦ winget,0.695,True,microsoft onedrive,0.6902,True,Product Updates
+acrord32,25.1.20432.0,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Adobe Acrobat Products
+rdrcef,25.1.20432.0,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Browser Add-ins
+officeclicktorun,16.0.18025.20214,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,op auto clicker                 opautoclicker.opautoclicker        3              winget,0.6092,True,officeclicktorun,1.0,True,Microsoft Office Tools
+lync,16.0.18025.20214,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,lync-2013-15-0-4615-1000-r2,0.7287,True,NOMATCH,0.0,False,lync,1.0,True,Communication
+sdxhelper,16.0.18025.20214,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Add-Ons
+officec2rclient,16.0.18025.20214,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Add-Ons
+fcags,11.10.200.16,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Add-Ons
+fcagswd,11.10.200.16,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Add-Ons
+fcag,11.10.200.16,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Add-Ons
+fsprocsvc,11.3.12.0011,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,fsprocsvc,1.0,True,Microsoft Office Add-Ons
+uevappmonitor,10.0.19041.1,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,uevappmonitor,1.0,True,Microsoft Office Add-Ons
+snowagent,6.7.1+build-BUILD_DATE-rev-BUILD_REVISION,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,snowagent,1.0,True,Security
+hp3ddgservice,6.0.22.1,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,hp3ddgservice,1.0,True,Hardware Driver
+wscript,5.812.10240.16384,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,wscript,1.0,True,Windows Default Processes
+macmnsvc,5.8.1.313,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,macmnsvc,1.0,True,System Processes
+macompatsvc,5.8.1.313,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,macompatsvc,1.0,True,System Processes
+masvc,5.8.1.313,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,masvc,1.0,True,System Processes
+mfemactl,5.8.1.313,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mfemactl,1.0,True,Security
+updaterui,5.8.1.313,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,updaterui,1.0,True,Updates
+rl,5.4.4.0,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,System Utilities
+ccmexec,5.00.9128.1007,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,ccmexec,1.0,True,System Utilities
+cmrcservice,5.00.9128.1007,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,cmrcservice,1.0,True,System Processes
+scnotification,5.0.9128.1007,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,scnotification,1.0,True,System Utilities
+csc ui,5.0.00889,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,csc_ui,0.9057,True,System Utilities
+scpservice,4.9.3.92,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mcpservice,0.6696,True,System Processes
+sftlist,4.6.3.25261,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sftlist,1.0,True,System Utilities
+sftvsa,4.6.3.25261,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sftvsa,1.0,True,System Utilities
+sftdcc,4.6.3.25261,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sftdcc,1.0,True,System Utilities
+pwdmgmtproxy,4.1.3766.0,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,pwdmgmtproxy,1.0,True,Security
+sensendr,4.0.0.12,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sensendr,1.0,True,System Utilities
+updater,3.8.0.0,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,updaterui,0.6111,True,Updates
+sensecm,2.1030.0.0,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sensetvm,0.6517,True,System Utilities
+nvwmi64,2.31.0,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Utilities
+mbamagent,2.5.1152.0,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mbamagent,1.0,True,System Utilities
+mctray,2.2.0.4696,DummyUser1,DummyHost1,Yes,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mctray,1.0,True,System Utilities
+trellix data exchange layer for ta,6.0.31021.0,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,trellix data exchange layer for ta,1.0,True,Security
+realtek high definition audio driver,6.0.1.7592,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,realteksemiconductorcorp.hpaudiocontrol,0.6401,True,Hardware Driver
+mimaki rasterlinkpro5 sg,5.48.050,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Developer Add-Ins
+trellix agent,5.8.1002,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,trellix agent,1.0,True,Security
+configuration manager client,5.00.9128.1000,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,configuration manager client,1.0,True,System Utilities
+cisco secure client anyconnect vpn,5.0.4032,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,cisco secure client - anyconnect vpn,0.9957,True,VPN
+cisco secure client diagnostics and reporting tool,5.0.4032,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,cisco secure client - diagnostics and reporting tool,0.9971,True,Reporting
+cisco secure client secure firewall posture,5.0.04032,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,cisco secure client - secure firewall posture,0.9922,True,Security
+jcad lachs,4.81.1327,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Developer Add-Ins
+skyhigh client proxy,4.9.3.92,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Security
+microsoft application virtualization desktop client,4.6.3.25261,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,application-virtualization-desktop-client-5-1-r1,0.8213,True,NOMATCH,0.0,False,microsoft application virtualization desktop client,1.0,True,System Utilities
+defaultpackmsi,4.6.2.0,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,defaultpackmsi,1.0,True,Windows Default Processes
+forefront identity manager add ins and extensions,4.1.3766.0,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,forefront identity manager add-ins and extensions,0.9688,True,Microsoft Office Add-Ons
+mimaki driver,4.1.500,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Driver
+microsoft visual studio setup wmi provider,3.1.2202.21079,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Developer Add-Ins
+nvidia install application,2.1002.275.2323,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Utilities
+nvidia wmi,2.31.0,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Utilities
+java auto updater,2.8.431.10,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Product Updates
+mdop mbam,2.5.1152.0,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mdop mbam,1.0,True,Security
+microsoft visual j redistributable package,2.0.50727,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Tools
+microsoft search in bing,2.0.2,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft search in bing,1.0,True,Windows Default Applications
+microsoft windows search,1.14.0.19041,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.windows.search,0.9011,True,Windows Default Applications
+teams machine wide installer,1.4.0.16575,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,teams-machine-wide-installer-1-3-0-12058-r1,0.8888,True,NOMATCH,0.0,False,teams machine-wide installer,0.9892,True,Collaboration
+clearswift spam reporter for outlook,1.4,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,spam-reporter-for-outlook-1-3-2-5125-r1,0.7026,True,NOMATCH,0.0,False,NOMATCH,0.0,False,Outlook Add-ons
+nvidia hd audio driver,1.3.36.6,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Driver
+nvidia display container,1.2,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Utilities
+nvidia display container ls,1.2,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Utilities
+nvidia display watchdog plugin,1.2,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Unknown
+nvidia display session container,1.2,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Utilities
+microsoft visual basic c++ runtime x86,1.1.0,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,visual-basic-for-applications-6-4-99-69-r1,0.6265,True,microsoft visual c++ 2010 x86 â€¦ microsoft.vcredist.2010.x86        10.0.40219     winget,0.7518,True,microsoft visual basic/c++ runtime (x86),0.9741,True,Developer Add-Ins
+vulkan run time libraries,1.0.65.1,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,vulkan runtime                  khronosgroup.vulkanrt              1.3.290.0      winget,0.7232,True,NOMATCH,0.0,False,Developer Add-Ins
+hotfix for microsoft visual c++ x64 redistributable kb2565063,1,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft visual c++ 2012 redistributable (x64) - 11.0.61030,0.6619,True,Security Patch
+configmgr toolkit r2,1.0.0,DummyUser1,DummyHost1,No,DummyUser1_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,configmgr 2012 toolkit r2,0.9521,True,System Utilities
+ms teams,25072.1611.3570.1995,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft teams                 microsoft.teams                    25044.2208.34â€¦ winget,0.7097,True,NOMATCH,0.0,False,Collaboration
+ms teamsupdate,25072.1611.3570.1995,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft teams classic         microsoft.teams.classic            1.8.00.6262    winget,0.6882,True,NOMATCH,0.0,False,Product Updates
+microsoft photos,2022.30060.3006.00000,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.photos,0.9518,True,Windows Default Applications
+lms,1907.12.0.1224,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Productivity
+jhi service,1826.12.0.1145,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,System Processes
+msedge,135.0.3179.98,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,msedge,1.0,True,Browsers
+msedgewebview2,135.0.3179.98,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft edge webview2 runtime microsoft.edgewebview2runtime      134.0.3124.72  winget,0.7277,True,microsoft edge webview2 runtime,0.7105,True,Browser Add-ins
+setup,135.0.3179.73,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Windows Default Processes
+microsoftedge x64 134 134,134.0.3124.93,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft edge                  microsoft.edge                     134.0.3124.72  winget,0.7395,True,msedge,0.7222,True,Browsers
+textinputhost,124.26100.0.0,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,textinputhost,1.0,True,System Processes
+onedrive,25.060.0330.0003,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft onedrive              microsoft.onedrive                 25.031.0217.0â€¦ winget,0.7966,True,onedrive,1.0,True,Cloud Storage
+microsoft sharepoint,25.056.0324.0003,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Collaboration
+intelcphdcpsvc,25.20.100.6519,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Driver
+acrord32,25.1.20432.0,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Adobe Acrobat Products
+rdrcef,25.1.20432.0,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Browser Add-ins
+adobecollabsync,25.1.20432.0,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,adobe connect                   adobe.connect                      2024.11.71     winget,0.6508,True,adobe air,0.6592,True,Collaboration
+ibtsiva,20.90.1.1,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Driver
+rstmwservice,16.7.1.1012,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,System Processes
+outlook,16.0.14326.20962,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,outlook-2013-1-0-sp1-r1,0.7194,True,outlook for outlook.com         tomlm.electron-outlook-com         1.1.1.0        winget,0.6642,True,NOMATCH,0.0,False,Productivity
+winword,16.0.14326.20962,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Suite
+pdfreflow,16.0.14326.20962,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,pdfcreator professional         avanquestpdfforge.pdfcreator-profâ€¦ 5.3.3          winget,0.6369,True,NOMATCH,0.0,False,Adobe Acrobat Products
+excel,16.0.14326.20962,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Productivity
+lync,16.0.14326.20962,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,lync-2013-15-0-4615-1000-r2,0.7287,True,NOMATCH,0.0,False,lync,1.0,True,Communication
+powerpnt,16.0.14326.20962,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Suite
+mspub,16.0.14326.20962,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Suite
+officeclicktorun,16.0.14326.20596,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,op auto clicker                 opautoclicker.opautoclicker        3              winget,0.6092,True,officeclicktorun,1.0,True,Microsoft Office Tools
+msoasb,16.0.14326.20020,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,msmpeng,0.6291,True,Microsoft Office Tools
+fcag,11.10.200.16,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Add-Ons
+fcags,11.10.200.16,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Add-Ons
+fcagswd,11.10.200.16,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Microsoft Office Add-Ons
+fsprocsvc,11.3.12.0011,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,fsprocsvc,1.0,True,Microsoft Office Add-Ons
+soundrec,10.1906.1907.16002,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,sound blaster command           creativetechnology.soundblastercoâ€¦ 3.5.09.00      winget,0.6081,True,NOMATCH,0.0,False,Windows Default Applications
+uevappmonitor,10.0.19041.1,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,uevappmonitor,1.0,True,Microsoft Office Add-Ons
+microsoft uev synccontroller,10.0.19041.1,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,System Utilities
+esif uf,8.4.11000.6436,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,System Utilities
+igfxcuiservice,6.15.100.6519,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Driver
+igfxem,6.15.100.6519,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Driver
+snowagent,6.7.1+build-BUILD_DATE-rev-BUILD_REVISION,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,snowagent,1.0,True,Security
+hp3ddgservice,6.0.22.1,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,hp3ddgservice,1.0,True,Hardware Driver
+wscript,5.812.10240.16384,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,wscript,1.0,True,Windows Default Processes
+macmnsvc,5.8.1.313,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,macmnsvc,1.0,True,System Processes
+macompatsvc,5.8.1.313,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,macompatsvc,1.0,True,System Processes
+masvc,5.8.1.313,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,masvc,1.0,True,System Processes
+mfemactl,5.8.1.313,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mfemactl,1.0,True,Security
+updaterui,5.8.1.313,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,updaterui,1.0,True,Updates
+ccmexec,5.00.9128.1007,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,ccmexec,1.0,True,System Utilities
+cmrcservice,5.00.9128.1007,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,cmrcservice,1.0,True,System Processes
+scnotification,5.0.9128.1007,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,scnotification,1.0,True,System Utilities
+csc ui,5.0.00889,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,csc_ui,0.9057,True,System Utilities
+scpservice,4.9.3.92,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mcpservice,0.6696,True,System Processes
+sftdcc,4.6.3.25261,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sftdcc,1.0,True,System Utilities
+sftlist,4.6.3.25261,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sftlist,1.0,True,System Utilities
+sftvsa,4.6.3.25261,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sftvsa,1.0,True,System Utilities
+pwdmgmtproxy,4.1.3766.0,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,pwdmgmtproxy,1.0,True,Security
+sensendr,4.0.0.12,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sensendr,1.0,True,System Utilities
+mbamagent,2.5.1152.0,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mbamagent,1.0,True,System Utilities
+mctray,2.2.0.4696,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mctray,1.0,True,System Utilities
+secomn64,2.0.8.27,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,secomn64,1.0,True,Hardware Driver
+cortana,1.1911.21713.0,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Communication
+fmapp,1.32.0.12,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Windows Default Applications
+apphelpercap,1.3.619.0,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,apphelpercap,1.0,True,System Utilities
+networkcap,1.3.619.0,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,networkcap,1.0,True,System Utilities
+sysinfocap,1.3.619.0,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sysinfocap,1.0,True,System Utilities
+microsoftedgeupdate,1.3.133.5,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoftedgeupdate,1.0,True,Browser Updates
+sensetvm,1.2.24-0,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sensetvm,1.0,True,System Utilities
+rtkauduservice64,1.0.0.143,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,rtkauduservice64,1.0,True,System Processes
+msclprproxy,1.0.0.1,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,msclprproxy,1.0,True,System Utilities
+fmservice64,0.1.0.11,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,fmservice64,1.0,True,Windows Default Processes
+acwebhelper,"5, 0, 04032",DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Browser Add-ins
+agentservice,10.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,agentservice,1.0,True,System Processes
+aggregatorhost,unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,aggregatorhost,1.0,True,System Processes
+applicationframehost,10.0.19041.4355 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,System Processes
+appvclient,10.0.19041.4355 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,appvclient,1.0,True,System Utilities
+appvstreamingux,unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,appvstreamingux,1.0,True,Windows Default Applications
+audiodg,10.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Windows Default Applications
+ciscod,"5, 0, 04032",DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,ciscod,1.0,True,System Processes
+comppkgsrv,10.0.19041.4355 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,System Processes
+conhost,10.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,conhost,1.0,True,System Processes
+csrss,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,csrss,1.0,True,System Processes
+ctfmon,10.0.19038.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,ctfmon,1.0,True,Windows Default Applications
+dllhost,10.0.19041.3636 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,dllhost,1.0,True,System Processes
+dwm,10.0.19038.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,dwm,1.0,True,Windows Default Processes
+evteng,"20, 90, 0, 0",DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Windows Default Processes
+explorer,10.0.19041.4474 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,explorerpatcher                 valinet.explorerpatcher            22621.4317.67â€¦ winget,0.6902,True,explorer,1.0,True,Windows Default Applications
+fontdrvhost,10.0.19041.5369 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,fontdrvhost,1.0,True,System Processes
+idle,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,idle,1.0,True,System Processes
+intelcphecisvc,unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Driver
+lsaiso,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,lsaiso,1.0,True,System Processes
+lsass,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,lsass,1.0,True,System Processes
+memory compression,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,efficient compression tool      fhanau.efficient-compression-tool  0.9.5          winget,0.6099,True,memory compression,1.0,True,System Processes
+mfehcs,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mfehcs,1.0,True,Security
+mfemms,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mfemms,1.0,True,Security
+mfevtps,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mfevtps,1.0,True,Security
+mobsync,10.0.19041.4355 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Collaboration
+momclnt,"2021,1,4,551",DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,momclnt,1.0,True,System Utilities
+momsmartclnt,"2024,4,0,565",DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,momsmartclnt,1.0,True,System Utilities
+mousocoreworker,10.0.19041.5553 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mousocoreworker,1.0,True,System Processes
+mpdefendercoreservice,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Security
+msdtc,2001.12.10941.16384 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,msdtc,1.0,True,System Processes
+msmpeng,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,msmpeng,1.0,True,System Processes
+mssense,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mssense,1.0,True,Security
+nissrv,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,nissrv,1.0,True,Security
+pacjsworker,10.0.19041.5438 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,pacjsworker,1.0,True,Browser Add-ins
+policyhost,68.1.1010.0 (fbl_srv_ompssvc_lantern_sccmrc_sp1(smslight).160918-2004),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,policy                          openpolicycontainers.policy        0.3.0          winget,0.6467,True,policyhost,1.0,True,System Processes
+powershell,10.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,powershell                      microsoft.powershell               7.5.0.0        winget,0.6453,True,powershell,1.0,True,System Utilities
+presentationfontcache,3.0.6920.9141 built by: WinRelRS6,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,System Utilities
+registry,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,registry finder                 sergeyfilippov.registryfinder      2.59           winget,0.664,True,registry,1.0,True,System Processes
+regsrvc,"20, 90, 0, 0",DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,masvc,0.6002,True,Windows Default Processes
+runtimebroker,10.0.19041.4355 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,runtimebroker,1.0,True,Windows Default Applications
+searchapp,10.0.19041.5555 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,searchapp,1.0,True,Windows Default Applications
+searchfilterhost,7.0.19041.5438 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,searchfilterhost,1.0,True,Windows Default Applications
+searchindexer,7.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,searchindexer,1.0,True,System Processes
+searchprotocolhost,7.0.19041.5438 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,searchprotocolhost,1.0,True,Windows Default Applications
+secure system,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,secure system,1.0,True,Security
+securityhealthservice,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,securityhealthservice,1.0,True,Security
+securityhealthsystray,10.0.19041.4355 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,securityhealthsystray,1.0,True,Security
+senseir,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,senseir,1.0,True,Security
+services,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,services,1.0,True,System Processes
+shellexperiencehost,10.0.19041.5553 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,shellexperiencehost,1.0,True,Windows Default Processes
+sihost,10.0.19041.4355 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sihost,1.0,True,System Processes
+smartscreen,10.0.19041.5369 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,smartscreen,1.0,True,Security
+smss,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,smss,1.0,True,System Processes
+spoolsv,10.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,spoolsv,1.0,True,System Processes
+startmenuexperiencehost,unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,startmenuexperiencehost,1.0,True,Windows Default Applications
+svchost,10.0.19038.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,svchost,1.0,True,System Processes
+syntpenh,19.5.9.26 10Oct18,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Driver
+syntpenhservice,19.5.9.26 10Oct18,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Driver
+system,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,system,1.0,True,System Processes
+taskhostw,10.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,task                            task.task                          3.42.0         winget,0.6047,True,taskhostw,1.0,True,System Processes
+unsecapp,10.0.19041.4474 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,unsecapp,1.0,True,Security
+vpnagent,"5, 0, 04032",DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,vpnagent,1.0,True,VPN
+wininit,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,wininit,1.0,True,System Processes
+winlogon,10.0.19041.3636 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,winlogon,1.0,True,System Processes
+wlanext,10.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,wlanext,1.0,True,System Utilities
+wmiprvse,10.0.19041.3636 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,wmiprvse,1.0,True,System Processes
+wudfhost,10.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,wudfhost,1.0,True,Hardware Driver
+zeroconfigservice,"20, 90, 0, 0",DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Windows Default Processes
+lockapp,10.0.19041.5553 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,lockapp,1.0,True,Security
+tiworker,10.0.19041.5547 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,tiworker,1.0,True,System Processes
+trustedinstaller,10.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,trustedinstaller,1.0,True,System Processes
+defrag,10.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,o&o defrag professional         oo-software.defrag.professional    29.1.11203     winget,0.7124,True,NOMATCH,0.0,False,System Utilities
+wmiapsrv,10.0.19041.3758 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,wmiprvse,0.6326,True,System Processes
+logonui,10.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,logonui,1.0,True,Windows Default Processes
+gpupdate,10.0.19041.3636 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoftedgeupdate,0.6092,True,System Utilities
+splwow64,10.0.19041.4355 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,secomn64,0.6166,True,System Processes
+sppsvc,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sppsvc,1.0,True,System Processes
+wmplayer,12.0.19041.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Media
+prevhost,10.0.19041.4355 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Windows Default Processes
+notepad,10.0.19038.1 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,textpad-4-7-2-r1,0.6502,True,notepad++                       notepad++.notepad++                8.7.8          winget,0.6474,True,NOMATCH,0.0,False,Text Editors
+backgroundtaskhost,10.0.19041.3636 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,backgroundtaskhost,1.0,True,System Processes
+wmprph,12.0.19041.3636 (WinBuild.160101.0800),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Windows Default Applications
+vpnmgmttun,"5, 0, 04032",DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,vpn by google one               google.vpnbygoogleone              1.9.0.6        winget,0.6882,True,NOMATCH,0.0,False,VPN
+mpcmdrun,4.18.25030.2 (000028f0c1f345a538ea89b768605447f1c02bdf),DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Windows Default Processes
+sensecm,Unknown,DummyUser2,DummyHost2,Yes,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,sensetvm,0.6517,True,System Utilities
+msteams,25072.1611.3570.1995,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mssense,0.6338,True,Collaboration
+microsoft edge,135.0.3179.98,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft edge                  microsoft.edge                     134.0.3124.72  winget,0.8204,True,microsoft edge,1.0,True,Browsers
+microsoft edge webview2 runtime,135.0.3179.98,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft edge webview2 runtime microsoft.edgewebview2runtime      134.0.3124.72  winget,0.8792,True,microsoft edge webview2 runtime,1.0,True,Browser Updates
+microsoft policy platform,68.1.1010.0,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft policy platform,1.0,True,System Processes
+microsoft microsoftedge,44.19041.3636.0,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft edge dev              microsoft.edge.dev                 135.0.3179.11  winget,0.6389,True,msedge,0.8299,True,Browsers
+adobe air,32.0.0.89,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,adobe air                       harman.adobeair                    51.1.3.4       winget,0.74,True,adobe air,1.0,True,Adobe Acrobat Products
+microsoft onedrive,25.060.0330.0003,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft onedrive              microsoft.onedrive                 25.031.0217.0â€¦ winget,0.8662,True,microsoft onedrive,1.0,True,Collaboration
+adobe acrobat reader mui,25.1.20432,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,acrobat-reader-11-0-14-r1,0.8227,True,adobe acrobat reader (64-bit)   adobe.acrobat.reader.64-bit        25.001.20432   winget,0.7624,True,adobe acrobat reader mui,1.0,True,Adobe Acrobat Products
+uniflow smartclient,25.1.0.7,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,uniflow smartclient,1.0,True,Productivity
+zip x64 edition,24.09.00.0,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,7-zip alpha (msi)               7zip.7zip.alpha.msi                24.01.00.0     winget,0.6127,True,7-zip 24.09 (x64 edition),0.8461,True,Compression Utilities
+intel r wireless bluetooth r,20.90.1,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Driver
+intel proset wireless wifi software,20.90.0.2270,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Hardware Driver
+microsoft apps for enterprise en gb,16.0.14326.20962,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft 365 apps for enterprise - en-gb,0.8546,True,Microsoft Office Suite
+microsoft apps for enterprise en us,16.0.14326.20962,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft 365 apps for enterprise - en-us,0.8594,True,Microsoft Office Suite
+microsoft apps for enterprise en us proof,16.0.14326.20962,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft 365 apps for enterprise - en-us.proof,0.8414,True,Microsoft Office Suite
+office click to run licensing component,16.0.14326.20962,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,office 16 click-to-run licensing component,0.9275,True,Microsoft Office Tools
+office click to run extensibility component bit registration,16.0.14326.20962,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,office 16 click-to-run extensibility component 64-bit registration,0.8706,True,Microsoft Office Add-Ons
+office click to run extensibility component,16.0.14326.20962,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,office 16 click-to-run extensibility component,0.9246,True,Microsoft Office Add-Ons
+microsoft visual c++ x64 minimum runtime,14.32.31332,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x64 â€¦ microsoft.vcredist.2010.x64        10.0.40219     winget,0.6852,True,microsoft visual c++ 2022 x64 minimum runtime - 14.38.33135,0.9009,True,Developer Tools
+microsoft visual c++ x64 additional runtime,14.32.31332,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x64 â€¦ microsoft.vcredist.2010.x64        10.0.40219     winget,0.6987,True,microsoft visual c++ 2022 x64 additional runtime - 14.38.33135,0.8777,True,Developer Tools
+microsoft visual c++ redistributable x64,14.32.31332.0,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2022 rediâ€¦ microsoft.vcredist.2015+.arm64     14.42.34433.0  winget,0.7008,True,microsoft visual c++ 2005 redistributable (x64),0.9343,True,Developer Tools
+microsoft visual c++ redistributable x86,14.32.31332.0,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x86 â€¦ microsoft.vcredist.2010.x86        10.0.40219     winget,0.7331,True,microsoft visual c++ 2008 redistributable - x86 9.0.21022,0.8926,True,Developer Tools
+microsoft visual c++ x86 additional runtime,14.32.31332,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x86 â€¦ microsoft.vcredist.2010.x86        10.0.40219     winget,0.7304,True,microsoft visual basic/c++ runtime (x86),0.8939,True,Developer Tools
+microsoft visual c++ x86 minimum runtime,14.32.31332,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x86 â€¦ microsoft.vcredist.2010.x86        10.0.40219     winget,0.7343,True,microsoft visual c++ 2022 x86 minimum runtime - 14.38.33135,0.8965,True,Developer Tools
+trellix data loss prevention endpoint,11.10.200.162,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,trellix endpoint security threat prevention,0.7009,True,Security
+microsoft advertising xaml,10.1808.3.0,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.advertising.xaml,0.9174,True,Microsoft Office Add-Ons
+microsoft visual studio tools for office runtime x64,10.0.50908,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft visual basic/c++ runtime (x86),0.6057,True,Microsoft Office Tools
+microsoft visual c++ x64 redistributable,10.0.40219,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2022 rediâ€¦ microsoft.vcredist.2015+.arm64     14.42.34433.0  winget,0.7118,True,microsoft visual c++ 2005 redistributable (x64),0.9363,True,Developer Tools
+microsoft visual c++ x86 redistributable,10.0.40219,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x86 â€¦ microsoft.vcredist.2010.x86        10.0.40219     winget,0.7411,True,microsoft visual c++ 2008 redistributable - x86 9.0.21022,0.8905,True,Developer Tools
+microsoft windows sechealthui,10.0.19041.1682,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,windows pc health check         microsoft.windowspchealthcheck     3.7.2204.15001 winget,0.601,True,microsoft.windows.sechealthui,0.9522,True,Security
+microsoft services store engagement,10.0.19011.0,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.services.store.engagement,0.9211,True,Microsoft Office Add-Ons
+microsoft visual c++ redistributable,8.0.61001,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2005 rediâ€¦ microsoft.vcredist.2005.x86        8.0.61001      winget,0.6993,True,microsoft visual c++ 2005 redistributable,0.9348,True,Developer Tools
+microsoft ui xaml,7.2208.15002.0,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,microsoft.ui.xaml               microsoft.ui.xaml.2.8              8.2310.30001.0 winget,0.7924,True,NOMATCH,0.0,False,System Utilities
+hp software framework,7.1.13.1,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,hp software framework,1.0,True,Software Updates
+snow inventory agent,6.7.1,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,snow inventory agent,1.0,True,System Utilities
+local administrator password solution,6.2.0.0,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,local administrator password sâ€¦ microsoft.laps                     6.2.0.0        winget,0.7275,True,local administrator password solution,1.0,True,Security
+trellix data exchange layer for ta,6.0.31021.0,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,trellix data exchange layer for ta,1.0,True,Security
+trellix agent,5.8.1002,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,trellix agent,1.0,True,Security
+configuration manager client,5.00.9128.1000,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,configuration manager client,1.0,True,System Utilities
+cisco secure client anyconnect vpn,5.0.4032,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,cisco secure client - anyconnect vpn,0.9957,True,VPN
+cisco secure client diagnostics and reporting tool,5.0.4032,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,cisco secure client - diagnostics and reporting tool,0.9971,True,Reporting
+cisco secure client secure firewall posture,5.0.4032,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,cisco secure client - secure firewall posture,0.9922,True,Security
+skyhigh client proxy,4.9.3.92,DummyUser2,DummyHost2,No,DummyUser2_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Security
+wuauclt,10.0.19041.5198 (WinBuild.160101.0800),DummyUser3,DummyHost3,Yes,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,wudfhost,0.6226,True,Updates
+mscorsvw,Unknown,DummyUser3,DummyHost3,Yes,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Windows Default Processes
+ngen,4.8.4320.0 built by: NET48REL1LAST_C,DummyUser3,DummyHost3,Yes,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,System Utilities
+ngentask,4.8.4320.0 built by: NET48REL1LAST_C,DummyUser3,DummyHost3,Yes,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,System Processes
+splwow64,10.0.19041.4355 (WinBuild.160101.0800),DummyUser3,DummyHost3,Yes,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,secomn64,0.6166,True,System Processes
+msteams,25072.1609.3541.7814,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mssense,0.6338,True,Collaboration
+microsoft aad brokerplugin,1000.19041.423.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.aad.brokerplugin,0.9682,True,Microsoft Office Add-Ons
+google chrome,135.0.7049.85,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,google chrome                   google.chrome                      134.0.6998.118 winget,0.7358,True,NOMATCH,0.0,False,Browsers
+microsoft edge,135.0.3179.98,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft edge                  microsoft.edge                     134.0.3124.72  winget,0.8204,True,microsoft edge,1.0,True,Browsers
+microsoft edge webview2 runtime,135.0.3179.98,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft edge webview2 runtime microsoft.edgewebview2runtime      134.0.3124.72  winget,0.8792,True,microsoft edge webview2 runtime,1.0,True,Browser Updates
+microsoftwindows client cbs,120.2212.31.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoftwindows.client.cbs,0.939,True,Windows Default Processes
+microsoft policy platform,68.1.1010.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft policy platform,1.0,True,System Processes
+microsoft microsoftedge,44.19041.3636.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft edge dev              microsoft.edge.dev                 135.0.3179.11  winget,0.6389,True,msedge,0.8299,True,Browsers
+adobe flash player npapi,32.0.0.433,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Browser Add-ins
+adobe flash player ppapi,32.0.0.433,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Browser Add-ins
+adobe air,32.0.0.89,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,adobe air                       harman.adobeair                    51.1.3.4       winget,0.74,True,adobe air,1.0,True,Adobe Acrobat Products
+microsoft onedrive,25.056.0324.0003,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft onedrive              microsoft.onedrive                 25.031.0217.0â€¦ winget,0.8662,True,microsoft onedrive,1.0,True,Collaboration
+adobe acrobat reader mui,25.1.20432,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,acrobat-reader-11-0-14-r1,0.8227,True,adobe acrobat reader (64-bit)   adobe.acrobat.reader.64-bit        25.001.20432   winget,0.7624,True,adobe acrobat reader mui,1.0,True,Adobe Acrobat Products
+uniflow smartclient,25.1.0.7,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,uniflow smartclient,1.0,True,Productivity
+zip x64 edition,24.09.00.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,7-zip alpha (msi)               7zip.7zip.alpha.msi                24.01.00.0     winget,0.6127,True,7-zip 24.09 (x64 edition),0.8461,True,Compression Utilities
+intel software installer,22.170.2.1,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,System Utilities
+microsoft apps for enterprise en us,16.0.18025.20214,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft 365 apps for enterprise - en-us,0.8594,True,Microsoft Office Suite
+microsoft apps for enterprise en us proof,16.0.18025.20214,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft 365 apps for enterprise - en-us.proof,0.8414,True,Microsoft Office Suite
+office click to run licensing component,16.0.18025.20214,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,office 16 click-to-run licensing component,0.9275,True,Microsoft Office Tools
+office click to run extensibility component bit registration,16.0.18025.20126,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,office 16 click-to-run extensibility component 64-bit registration,0.8706,True,Microsoft Office Add-Ons
+office click to run extensibility component,16.0.18025.20126,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,office 16 click-to-run extensibility component,0.9246,True,Microsoft Office Add-Ons
+office click to run localization component,16.0.13127.21064,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,office 16 click-to-run extensibility component,0.6408,True,Microsoft Office Suite
+microsoft visual c++ x64 minimum runtime,14.31.31103,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x64 â€¦ microsoft.vcredist.2010.x64        10.0.40219     winget,0.6852,True,microsoft visual c++ 2022 x64 minimum runtime - 14.38.33135,0.9009,True,Developer Tools
+microsoft visual c++ x64 additional runtime,14.31.31103,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x64 â€¦ microsoft.vcredist.2010.x64        10.0.40219     winget,0.6987,True,microsoft visual c++ 2022 x64 additional runtime - 14.38.33135,0.8777,True,Developer Tools
+microsoft visual c++ redistributable x64,14.31.31103.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2022 rediâ€¦ microsoft.vcredist.2015+.arm64     14.42.34433.0  winget,0.7008,True,microsoft visual c++ 2005 redistributable (x64),0.9343,True,Developer Tools
+microsoft visual c++ redistributable x86,14.29.30037.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x86 â€¦ microsoft.vcredist.2010.x86        10.0.40219     winget,0.7331,True,microsoft visual c++ 2008 redistributable - x86 9.0.21022,0.8926,True,Developer Tools
+microsoft visual c++ x86 additional runtime,14.29.30037,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x86 â€¦ microsoft.vcredist.2010.x86        10.0.40219     winget,0.7304,True,microsoft visual basic/c++ runtime (x86),0.8939,True,Developer Tools
+microsoft visual c++ x86 minimum runtime,14.29.30037,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x86 â€¦ microsoft.vcredist.2010.x86        10.0.40219     winget,0.7343,True,microsoft visual c++ 2022 x86 minimum runtime - 14.38.33135,0.8965,True,Developer Tools
+microsoft vclibs,14.0.27323.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2005 rediâ€¦ microsoft.vcredist.2005.x64        8.0.61000      winget,0.7473,True,NOMATCH,0.0,False,System Utilities
+trellix data loss prevention endpoint,11.10.200.162,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,trellix endpoint security threat prevention,0.7009,True,Security
+microsoft advertising xaml,10.1808.3.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.advertising.xaml,0.9174,True,Microsoft Office Add-Ons
+microsoft visual studio tools for office runtime x64,10.0.50908,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft visual basic/c++ runtime (x86),0.6057,True,Microsoft Office Tools
+microsoft visual c++ x64 redistributable,10.0.40219,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2022 rediâ€¦ microsoft.vcredist.2015+.arm64     14.42.34433.0  winget,0.7118,True,microsoft visual c++ 2005 redistributable (x64),0.9363,True,Developer Tools
+microsoft visual c++ x86 redistributable,10.0.40219,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2010 x86 â€¦ microsoft.vcredist.2010.x86        10.0.40219     winget,0.7411,True,microsoft visual c++ 2008 redistributable - x86 9.0.21022,0.8905,True,Developer Tools
+microsoft bioenrollment,10.0.19041.423,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.bioenrollment,0.9766,True,Security
+microsoft windows cloudexperiencehost,10.0.19041.423,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.windows.cloudexperiencehost,0.9629,True,Windows Default Processes
+microsoft windows contentdeliverymanager,10.0.19041.423,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.windows.contentdeliverymanager,0.9707,True,Windows Default Processes
+microsoft windows oobenetworkcaptiveportal,10.0.19041.423,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.windows.oobenetworkcaptiveportal,0.983,True,Windows Default Processes
+microsoft windows oobenetworkconnectionflow,10.0.19041.423,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.windows.oobenetworkconnectionflow,0.9874,True,Windows Default Processes
+microsoft windows shellexperiencehost,10.0.19041.423,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.windows.shellexperiencehost,0.972,True,Windows Default Processes
+microsoft windows startmenuexperiencehost,10.0.19041.423,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoft.windows.startmenuexperiencehost,0.9815,True,Windows Default Processes
+microsoftwindows undockeddevkit,10.0.19041.423,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,microsoftwindows.undockeddevkit,0.9905,True,Developer Tools
+microsoft visual c++ redistributable,8.0.61001,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,microsoft visual c++ 2005 rediâ€¦ microsoft.vcredist.2005.x86        8.0.61001      winget,0.6993,True,microsoft visual c++ 2005 redistributable,0.9348,True,Developer Tools
+snow inventory agent,6.7.1,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,snow inventory agent,1.0,True,System Utilities
+local administrator password solution,6.2.0.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,local administrator password sâ€¦ microsoft.laps                     6.2.0.0        winget,0.7275,True,local administrator password solution,1.0,True,Security
+trellix data exchange layer for ta,6.0.31021.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,trellix data exchange layer for ta,1.0,True,Security
+trellix agent,5.8.1002,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,trellix agent,1.0,True,Security
+configuration manager client,5.00.9128.1000,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,configuration manager client,1.0,True,System Utilities
+cisco secure client anyconnect vpn,5.0.4032,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,cisco secure client - anyconnect vpn,0.9957,True,VPN
+cisco secure client diagnostics and reporting tool,5.0.4032,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,cisco secure client - diagnostics and reporting tool,0.9971,True,Reporting
+cisco secure client secure firewall posture,5.0.04032,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,cisco secure client - secure firewall posture,0.9922,True,Security
+skyhigh client proxy,4.9.3.92,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Security
+microsoft application virtualization desktop client,4.6.3.25261,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,application-virtualization-desktop-client-5-1-r1,0.8213,True,NOMATCH,0.0,False,microsoft application virtualization desktop client,1.0,True,System Utilities
+defaultpackmsi,4.6.2.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,defaultpackmsi,1.0,True,Windows Default Processes
+forefront identity manager add ins and extensions,4.1.3766.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,forefront identity manager add-ins and extensions,0.9688,True,Microsoft Office Add-Ons
+microsoft visual studio setup wmi provider,3.1.2202.21079,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,NOMATCH,0.0,False,Developer Add-Ins
+mdop mbam,2.5.1152.0,DummyUser3,DummyHost3,No,DummyUser3_merged.csv,NOMATCH,0.0,False,NOMATCH,0.0,False,mdop mbam,1.0,True,Security
