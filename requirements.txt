@@ -1,4 +1,3 @@
 streamlit
 pandas
-st-aggrid
 numpy
